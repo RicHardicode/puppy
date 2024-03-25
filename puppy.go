@@ -21,6 +21,6 @@ func Bigbarks() string {
 }
 
 func version1() {
-	s1:=""v1.0.0""
+	s1 := "v1.0.1"
 	return s1
 }
